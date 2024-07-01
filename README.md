@@ -4,9 +4,9 @@ Instructions:
 Answer the following questions based on your understanding of GitHub and Visual Studio. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Introduction to GitHub:
+# Introduction to GitHub:
 
-What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
+ What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 
 GitHub is a cloud-based platform where you can store, share, and work together with others to write code.
 
@@ -31,7 +31,7 @@ Let Git keep track of your and other people's changes, so you all stay working o
 GitHub Docs. (n.d.). About GitHub and Git. [online] Available at: https://docs.github.com/en/get-started/start-your-journey/about-github-and-git.
 
 ‌
-Repositories on GitHub:
+# Repositories on GitHub:
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 
@@ -87,7 +87,7 @@ Standardizes submission of issues and PRs.
 OpenAI. (2024). ChatGPT [Large language model]. https://chatgpt.com
 
 
-Version Control with Git:
+# Version Control with Git:
 
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
 
@@ -112,7 +112,7 @@ Businesses using Git can break down communication barriers between teams and kee
 GitHub (2024). About Git. [online] GitHub Docs. Available at: https://docs.github.com/en/get-started/using-git/about-git.
 
 ‌
-Branching and Merging in GitHub:
+# Branching and Merging in GitHub:
 
 What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
 
@@ -140,7 +140,7 @@ Merging branches allows for the integration of new features or fixes while maint
 
 Studocu. (2023). [Solved] What are branches in GitHub and why are they important Describe - computer science (csc 104) - Studocu. [online] Available at: https://www.studocu.com/row/messages/question/7918732/what-are-branches-in-github-and-why-are-they-important-describe-the-process-of-creating-a-branch [Accessed 1 Jul. 2024].
 
-Pull Requests and Code Reviews:
+# Pull Requests and Code Reviews:
 
 What is a pull request in GitHub, and how does it facilitate code reviews and collaboration? Outline the steps to create and review a pull request.
 
@@ -167,7 +167,7 @@ In summary, pull requests in GitHub facilitate code reviews and collaboration by
 
 Studocu. (2023). [Solved] What is a pull request in GitHub and how does it facilitate code - computer science (csc 104) - Studocu. [online] Available at: https://www.studocu.com/row/messages/question/7918763/what-is-a-pull-request-in-github-and-how-does-it-facilitate-code-reviews-and-collaboration-outline [Accessed 1 Jul. 2024].
 
-GitHub Actions:
+# GitHub Actions:
 
 Explain what GitHub Actions are and how they can be used to automate workflows. Provide an example of a simple CI/CD pipeline using GitHub Actions.
 
@@ -222,9 +222,7 @@ This example sets up a workflow that runs on every push to the main branch, inst
 
 Studocu. (2023). [Solved] Explain what GitHub Actions are and how they can be used - computer science (csc 104) - Studocu. [online] Available at: https://www.studocu.com/row/messages/question/7918788/explain-what-github-actions-are-and-how-they-can-be-used-to-automate-workflows-provide-an-example [Accessed 1 Jul. 2024].
 
-Studocu. (2023). [Solved] Explain what GitHub Actions are and how they can be used - computer science (csc 104) - Studocu. [online] Available at: https://www.studocu.com/row/messages/question/7918788/explain-what-github-actions-are-and-how-they-can-be-used-to-automate-workflows-provide-an-example [Accessed 1 Jul. 2024].
-
-Introduction to Visual Studio:
+# Introduction to Visual Studio:
 
 What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 
@@ -232,7 +230,7 @@ Key Differences Between Visual Studio Code vs Visual Studio. “Visual Studio”
 
 TECHVIFY Software. (2024). Visual Studio Code vs Visual Studio – Are They The Same? [online] Available at: https://techvify-software.com/visual-studio-code-vs-visual-studio/ [Accessed 1 Jul. 2024].
 
-Integrating GitHub with Visual Studio:
+# Integrating GitHub with Visual Studio:
 
 Describe the steps to integrate a GitHub repository with Visual Studio. How does this integration enhance the development workflow?
 
@@ -263,7 +261,7 @@ Continuous Integration: Integration with GitHub facilitates the implementation o
 
 Studocu. (2023). [Solved] Describe the steps to integrate a GitHub repository with Visual - computer science (csc 104) - Studocu. [online] Available at: https://www.studocu.com/row/messages/question/7919020/describe-the-steps-to-integrate-a-github-repository-with-visual-studio-how-does-this-integration [Accessed 1 Jul. 2024].
 
-Debugging in Visual Studio:
+# Debugging in Visual Studio:
 
 Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
 
@@ -280,7 +278,7 @@ By utilizing these debugging tools, developers can effectively identify and fix 
 
 Studocu. (2023). [Solved] Explain the debugging tools available in Visual Studio How can - computer science (csc 104) - Studocu. [online] Available at: https://www.studocu.com/row/messages/question/7919055/explain-the-debugging-tools-available-in-visual-studio-how-can-developers-use-these-tools [Accessed 1 Jul. 2024].
 
-Collaborative Development using GitHub and Visual Studio:
+# Collaborative Development using GitHub and Visual Studio:
 
 Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
 
